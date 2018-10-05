@@ -1,4 +1,4 @@
-# teracy-dev-microservices-platform extension
+# teracy-dev-microservices extension
 
 teracy-dev extension for microservices platform atop k8s
 
